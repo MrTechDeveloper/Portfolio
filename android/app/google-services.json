@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773674981471",
+    "project_id": "ezzyapp",
+    "storage_bucket": "ezzyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773674981471:android:df5caea540f4833cbba3ea",
+        "android_client_info": {
+          "package_name": "com.multitelesoft.ezzyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773674981471-o6g6cpus8rpafp9pjo0klfef7t16usrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmqHeftGHHScZeeNMa_RFissObicaOGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773674981471-o6g6cpus8rpafp9pjo0klfef7t16usrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
